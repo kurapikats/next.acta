@@ -1,0 +1,31 @@
+{
+  "name": "actamedicaphilippina",
+  "version": "1.0.0",
+  "description": "The National Health Science Journal",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurapikats/next.acta.git"
+  },
+  "keywords": [
+    "acta",
+    "medica"
+  ],
+  "author": "Jesus B. Nana <jesus.nana@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurapikats/next.acta/issues"
+  },
+  "homepage": "https://github.com/kurapikats/next.acta#readme",
+  "dependencies": {
+    "materialize-css": "^0.100.2",
+    "next": "^4.2.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
